@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  },
+  "name": "rtask-8.1-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
